@@ -1,26 +1,29 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="es">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+
+<font size="4"><b><i>Melanie-II&nbsp;</i></b></font>
+      <p>By Alejandro Alonso Puig<br>
+      April 2004<br>
+ 
+<hr>
 <i>Melanie-II was developed by Alejandro Alonso on April 2004. This robot won the Hispabot 2004 National Robotics Contest at Spain.</i><br />
 <i><br /></i>
 <br />
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-hSt7XJFvGQI/UuOc7CX2FVI/AAAAAAAAJZI/fP64a4bHnh8/s1600/mel2c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-hSt7XJFvGQI/UuOc7CX2FVI/AAAAAAAAJZI/fP64a4bHnh8/s1600/mel2c.jpg" height="287" width="400" /></a></div>
+<p align="center"><img border="0" src="http://3.bp.blogspot.com/-hSt7XJFvGQI/UuOc7CX2FVI/AAAAAAAAJZI/fP64a4bHnh8/s1600/mel2c.jpg" width="600" ></p>
+
 <br />
-Melanie is an hexapod robot of 3 degrees of freedom by leg, that by the novel design of legs it has, can transport several kilograms on its body without electrical power overload.&nbsp;The tests in laboratory have shown their capacity to rise and to walk at least with 4'5kg of additional charge, twice its own weight.<br />
+Melanie is an hexapod robot of 3 degrees of freedom by leg, that by the novel design of legs it has, can transport several kilograms on its body without electrical power overload.&nbsp;The tests in laboratory have shown their capacity to rise and to walk at least with 4'5kg of additional charge, twice its own weight. See Video with <a href="https://youtu.be/sboOQ4rsUIg">Melanie-II carrying 4 bricks of milk</a><br />
 <br />
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://ytimg.googleusercontent.com/vi/sboOQ4rsUIg/0.jpg" height="266" width="320"><param name="movie" value="https://youtube.googleapis.com/v/sboOQ4rsUIg&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://youtube.googleapis.com/v/sboOQ4rsUIg&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
-<div class="separator" style="clear: both; text-align: center;">
-<i>Melanie-II carrying 4 bricks of milk</i></div>
 <div>
 <div style="text-align: center;">
 <i><br /></i></div>
 The version II that is showed in this technical report is an evolution of <b><u><a href="http://automacomp.blogspot.com.es/2004/03/melanie-v10-robust-hexapod-robot-of-3.html">Melanie-I</a></u></b>, to which some interesting capacities have been added, like the direct programming, the generation of movements by<br />
-displacement of waves combined with inverse kinematics, or the capacity to walk on rough terrain.<br />
-<div class="separator" style="clear: both; text-align: center;">
-<br /></div>
-<div style="text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://ytimg.googleusercontent.com/vi/cWKl-8FBR9Y/0.jpg" height="266" width="320"><param name="movie" value="https://www.youtube.com/v/cWKl-8FBR9Y?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://www.youtube.com/v/cWKl-8FBR9Y?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
-<div class="separator" style="clear: both; text-align: center;">
-<i>Melanie walking over rough terrain</i></div>
+displacement of waves combined with inverse kinematics, or the capacity to walk on rough terrain. See Video with <a href="https://youtu.be/cWKl-8FBR9Y">Melanie-II walking over rough terrain</a><br />
 <br />
 There is a version III with superior capacities. Complete information could be obtained here: <b><u><a href="http://automacomp.blogspot.com.es/2004/09/melanie-iii-robust-hexapod-robot-of-3.html">Melanie-III</a></u></b><br />
 <div>
@@ -53,5 +56,18 @@ Some basic characteristics that define Melanie-II are the following:<br />
 </ul>
 <br />
 In this work there will be mention to all the mechanical, electronic and programming aspects, as well as conclusions of the experience.<br />
-<br />
-<div style="-webkit-text-stroke-width: 0px; color: black; font-family: 'Times New Roman'; font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; margin: 0px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px;">
+<br>
+<br>
+More information: <br>
+<ul>
+  <li><p align="justify"><a href="Documentation\melanie-II_doc_en.pdf">Technical documentation</a></li>
+  <li><p align="justify"><a href="Melanie-II_Program">Program</a></li>
+  <li><p align="justify"><a href="Media">Pictures</a></li>
+  <li><p align="justify"><a href="https://github.com/aalonsopuig/Melanie-I_Hexapod_Robot.git">Repository of Melanie-I</a></li>
+  <li><p align="justify"><a href="https://github.com/aalonsopuig/Melanie-III_Hexapod_Robot.git">Repository of Melanie-III</a></li>
+</ul>
+
+</body>
+
+</html>
+
